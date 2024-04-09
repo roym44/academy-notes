@@ -3,9 +3,16 @@ Personal notes, mainly from my B.Sc. in Computational Linguistics at TAU.
 
 Currently contains the following (ordered chronologically):
 
+### Year 3
+
 Subject       | Semester | Course                           | Hebrew | 
 ------------- | -------  | -------------------------        | ------------------- |
 NLP and CL    | 2024A    | Introduction to ML | מבוא ללמידה חישובית |
+
+### Year 2
+
+Subject       | Semester | Course                           | Hebrew | 
+------------- | -------  | -------------------------        | ------------------- |
 CS            | 2023B    | Software Project | פרויקט תוכנה |
 CS            | 2023B    | Computer Structure | מבנה מחשבים |
 CS            | 2023B    | Algorithms | אלגוריתמים |
@@ -14,6 +21,11 @@ Linguistics   | 2023B    | Language Acqusition | רכישת שפה |
 CS            | 2023A    | Software 1 | תוכנה 1  |
 CS            | 2023A    | Data Structures | מבני נתונים  |
 Math          | 2023A    | Probability and Statistics | הסתברות וסטטיסטיקה |
+
+### Year 1
+
+Subject       | Semester | Course                           | Hebrew | 
+------------- | -------  | -------------------------        | ------------------- |
 CS            | 2022B    | Extended Introduction to CS | מבוא מורחב למדעי המחשב |
 Linguistics   | 2022B    | Phonology (Beginners) | פונולוגיה מתחילים |
 Linguistics   | 2022B    | Syntax (Advanced) | תחביר מתקדמים |
