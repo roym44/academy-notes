@@ -5,18 +5,18 @@ Personal notes, mainly from my B.Sc. in Computational Linguistics at TAU.
 * Projects (code and papers) related to most of the courses can be found in [this repo](https://github.com/roym44/academy-projects).
 
 
-Currently contains the following (ordered chronologically):
+Currently contains the following:
 
 ### Year 3
 
-Subject       | Semester | Course                     | Hebrew | 
+Subject       | Semester | Course                     | קורס | 
 ------------- | -------  | -------------------------  | ------------------- |
 NLP and CL    | 2024A    | Introduction to ML         | מבוא ללמידה חישובית |
 CS            | 2024A    | Computational Models       | מודלים חישוביים  |
 
 ### Year 2
 
-Subject       | Semester | Course                     | Hebrew | 
+Subject       | Semester | Course                     | קורס | 
 ------------- | -------  | -------------------------  | ------------------- |
 CS            | 2023B    | Software Project           | פרויקט תוכנה |
 CS            | 2023B    | Computer Structure         | מבנה מחשבים |
@@ -29,7 +29,7 @@ Math          | 2023A    | Probability and Statistics | הסתברות וסטט�
 
 ### Year 1
 
-Subject       | Semester | Course                      | Hebrew | 
+Subject       | Semester | Course                      | קורס | 
 ------------- | -------  | -------------------------   | ------------------- |
 CS            | 2022B    | Extended Introduction to CS | מבוא מורחב למדעי המחשב |
 Linguistics   | 2022B    | Phonology (Beginners)       | פונולוגיה מתחילים |
