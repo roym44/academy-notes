@@ -12,6 +12,8 @@ Currently contains the following:
 Subject       | Semester | Course                     | קורס | 
 ------------- | -------  | -------------------------  | ------------------- |
 NLP and CL    | 2024A    | Introduction to ML         | מבוא ללמידה חישובית |
+CS            | 2024A    | Digital Signal Processing  | עיבוד ספרתי של אותות  |
+CS            | 2024A    | Operating Systems          | מערכות הפעלה |
 CS            | 2024A    | Computational Models       | מודלים חישוביים  |
 
 ### Year 2
