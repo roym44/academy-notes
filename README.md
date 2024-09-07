@@ -9,12 +9,19 @@ Currently contains the following:
 
 ### Year 3
 
-Subject       | Semester | Course                     | קורס | 
-------------- | -------  | -------------------------  | ------------------- |
-NLP and CL    | 2024A    | Introduction to ML         | מבוא ללמידה חישובית |
-CS            | 2024A    | Digital Signal Processing  | עיבוד ספרתי של אותות  |
-CS            | 2024A    | Operating Systems          | מערכות הפעלה |
-CS            | 2024A    | Computational Models       | מודלים חישוביים  |
+Subject       | Semester | Course                              | קורס | 
+------------- | -------  | --------------------------------    | ------------------- |
+CS            | 2024B    | Introduction to DS                  | מבוא למדעי הנתונים |
+NLP&CL        | 2024A    | Introduction to ML                  | מבוא ללמידה חישובית |
+CS            | 2024A    | Digital Signal Processing           | עיבוד ספרתי של אותות  |
+CS            | 2024A    | Operating Systems                   | מערכות הפעלה |
+CS            | 2024A    | Computational Models                | מודלים חישוביים  |
+
+<!-- 
+NLP&CL        | 2024B    | NLP                                 | עיבוד שפה טבעית |
+NLP&CL        | 2024B    | Learning: Computation and Cognition | סמינר למידה |
+NLP&CL        | 2024A    | Parsing: Computation and Cognition  | סמינר עיבוד |
+-->
 
 ### Year 2
 
@@ -28,6 +35,10 @@ Linguistics   | 2023B    | Language Acqusition        | רכישת שפה |
 CS            | 2023A    | Software 1                 | תוכנה 1  |
 CS            | 2023A    | Data Structures            | מבני נתונים  |
 Math          | 2023A    | Probability and Statistics | הסתברות וסטטיסטיקה |
+
+<!-- 
+NLP&CL        | 2023A    | Advanced CL                | בלשנות חישובית מתקדמים |
+-->
 
 ### Year 1
 
