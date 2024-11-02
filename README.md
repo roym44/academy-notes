@@ -2,7 +2,7 @@
 Personal notes, mainly from my B.Sc. in Computational Linguistics at TAU.
 
 * For more detailed notes including extra material for each course please refer to [my personal drive](https://drive.google.com/drive/folders/1CwUER_7Ua1jw82GsgV6k7tVAMRxmQlkF?usp=drive_link).
-* Projects (code and papers) related to most of the courses can be found in [this repo](https://github.com/roym44/academy-projects).
+* Code projects related to most of the courses can be found in [this repo](https://github.com/roym44/academy-projects).
 
 
 Currently contains the following:
