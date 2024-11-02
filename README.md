@@ -11,6 +11,7 @@ Currently contains the following:
 
 Subject       | Semester | Course                              | קורס | 
 ------------- | -------  | --------------------------------    | ------------------- |
+NLP&CL        | 2024B    | NLP                                 | עיבוד שפה טבעית |
 CS            | 2024B    | Introduction to DS                  | מבוא למדעי הנתונים |
 NLP&CL        | 2024A    | Introduction to ML                  | מבוא ללמידה חישובית |
 CS            | 2024A    | Digital Signal Processing           | עיבוד ספרתי של אותות  |
@@ -18,7 +19,6 @@ CS            | 2024A    | Operating Systems                   | מערכות ה
 CS            | 2024A    | Computational Models                | מודלים חישוביים  |
 
 <!-- 
-NLP&CL        | 2024B    | NLP                                 | עיבוד שפה טבעית |
 NLP&CL        | 2024B    | Learning: Computation and Cognition | סמינר למידה |
 NLP&CL        | 2024A    | Parsing: Computation and Cognition  | סמינר עיבוד |
 -->
